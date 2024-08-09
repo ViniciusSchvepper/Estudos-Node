@@ -1,0 +1,2 @@
+Essa pasta tange as aulas do professor *Matheus Battsti*, referentes ao seu [curso](https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/?couponCode=KEEPLEARNING) presente na plataforma Udemy.
+Foram apresentados diversos assuntos no que tange a criações de projetos, estudos de módulos internos, externos e os core modules e fundamentos importante para que seja possivel tirar o máximo de proveito desta linguagem!
